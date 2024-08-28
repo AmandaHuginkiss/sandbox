@@ -1,0 +1,52 @@
+[
+    {
+        "song": "Smells Like Teen Spirit",
+        "band": "Nirvana",
+        "year": 1991
+    },
+    {
+        "song": "Alive",
+        "band": "Pearl Jam",
+        "year": 1991
+    },
+    {
+        "song": "Black Hole Sun",
+        "band": "Soundgarden",
+        "year": 1994
+    },
+    {
+        "song": "Man in the Box",
+        "band": "Alice in Chains",
+        "year": 1990
+    },
+    {
+        "song": "Plush",
+        "band": "Stone Temple Pilots",
+        "year": 1992
+    },
+    {
+        "song": "Violet",
+        "band": "Hole",
+        "year": 1994
+    },
+    {
+        "song": "Touch Me I'm Sick",
+        "band": "Mudhoney",
+        "year": 1988
+    },
+    {
+        "song": "Hunger Strike",
+        "band": "Temple of the Dog",
+        "year": 1991
+    },
+    {
+        "song": "Nearly Lost You",
+        "band": "Screaming Trees",
+        "year": 1992
+    },
+    {
+        "song": "Today",
+        "band": "The Smashing Pumpkins",
+        "year": 1993
+    }
+]
